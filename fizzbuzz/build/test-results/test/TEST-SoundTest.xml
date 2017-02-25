@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SoundTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-02-25T07:36:49" hostname="Hatorizs-Dojo.local" time="0.002">
+  <properties/>
+  <testcase name="testMakeASound_1" classname="SoundTest" time="0.002"/>
+  <system-out><![CDATA[Setup anything
+Teardown
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
