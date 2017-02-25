@@ -7,6 +7,12 @@ public class Sound {
     }
 
     public String makeASound(int i){
+
+        if (i % 3 == 0) {
+            return "Fizz";
+        } else if ( i % 5 == 0) {
+            return "Buzz";
+        }
         return Integer.toString(i);
     }
 }
