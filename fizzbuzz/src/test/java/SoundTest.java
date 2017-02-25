@@ -30,5 +30,10 @@ public class SoundTest {
         Assert.assertEquals(sound.makeASound(2), "2");
     }
 
+    @Test
+    public void testMakeASound_3() throws Exception {
+        Assert.assertEquals(sound.makeASound(3), "2");
+    }
+
 
 }
