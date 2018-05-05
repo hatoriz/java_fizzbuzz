@@ -13,7 +13,7 @@ public class Sound {
         } else if (i % 3 == 0) {
             return "Fizz";
         } else if ( i % 5 == 0) {
-            return "Buz";
+            return "Buzz";
         }
         return Integer.toString(i);
     }
