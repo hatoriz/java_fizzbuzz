@@ -45,6 +45,7 @@ jobs:
         
       # run tests!
       - run: pwd
+              ls
 
 
 
