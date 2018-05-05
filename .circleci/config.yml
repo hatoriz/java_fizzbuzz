@@ -47,7 +47,9 @@ jobs:
       - run: |
               pwd
               ls
-      - run: ./fizzbuzz/gradlew test
+      - run: |
+              cd ./fizzbuzz
+              ./gradlew test
 
 
 
